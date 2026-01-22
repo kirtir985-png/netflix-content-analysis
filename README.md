@@ -2,7 +2,6 @@
 
 ## 📌 Project Overview
 This project focuses on analyzing Netflix’s Movies and TV Shows dataset to uncover meaningful insights related to content distribution, trends, and patterns over time.
-
 The analysis helps understand how Netflix’s content varies across genres, countries, release years, and content types (Movies vs TV Shows).
 
 ---
@@ -15,24 +14,10 @@ The analysis helps understand how Netflix’s content varies across genres, coun
 
 ---
 
-## 📂 Dataset
-- File: `netflix_titles.csv`
-- Contains information such as:
-  - Title
-  - Type (Movie / TV Show)
-  - Country
-  - Release Year
-  - Rating
-  - Duration
-  - Genre
-
-Dataset Source: Netflix Titles Dataset (publicly available)
-
----
-
 ## 🛠️ Tools Used
-- **Microsoft Excel** – data analysis and dashboard creation
-- **Power BI / Excel Visuals** – interactive dashboard and charts
+- Power BI – dashboard creation and visualization
+- Power Query – data cleaning and transformation
+- Microsoft Excel – data source
 
 ---
 
@@ -40,6 +25,11 @@ Dataset Source: Netflix Titles Dataset (publicly available)
 ![Netflix Dashboard](netflix_dashboard.png)
 
 ---
+## 📂 Dataset
+The analysis was performed on a publicly available Netflix Movies and TV Shows dataset.
+The source data was provided in Excel format and cleaned using Power Query before building the Power BI dashboard.
+
+--
 
 ## 🔑 Key Insights
 - TV Shows have shown significant growth compared to Movies in recent years
@@ -49,10 +39,9 @@ Dataset Source: Netflix Titles Dataset (publicly available)
 
 ---
 
-## 📥 How to Use
-1. Download the Excel or dashboard file from this repository  
-2. Open it using **Microsoft Excel Desktop** (recommended for full interactivity)  
-3. Enable editing and use filters/slicers to explore insights  
+📌 Note:
+This repository showcases a static image of the Power BI dashboard created for analysis and visualization purposes.
+
 
 ---
 
