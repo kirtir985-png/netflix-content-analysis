@@ -1,66 +1,71 @@
-# Netflix Content Analysis Dashboard
+# Netflix Content Analysis Dashboard 📊
 
-##  Overview
-This project analyzes Netflix’s movies and TV shows dataset to uncover key insights into content distribution, trends, and patterns over time.
+## 📌 Project Overview
+This project focuses on analyzing Netflix’s Movies and TV Shows dataset to uncover meaningful insights related to content distribution, trends, and patterns over time.
 
-The dashboard provides interactive visuals to explore:
-- Movie vs TV Show distribution
-- Country-wise content production
-- Rating categories and trends
-- Yearly content addition
-- Duration and genre patterns
+The analysis helps understand how Netflix’s content varies across genres, countries, release years, and content types (Movies vs TV Shows).
 
 ---
 
-## 📊 Dataset
-The dataset used is the “Netflix Titles” dataset (CSV), containing:
-- Title
-- Type (Movie/TV Show)
-- Country
-- Release Year
-- Rating
-- Duration
-- Genre information
-
-Source: Kaggle (Netflix Titles dataset)
+## 🎯 Objective
+- Analyze Netflix content distribution by type (Movies & TV Shows)
+- Identify trends in content release over the years
+- Understand country-wise and genre-wise content availability
+- Explore ratings, duration, and category patterns
 
 ---
 
-## Tools Used
-- Microsoft Excel & SQL (for data preparation and dashboard)
-- Power BI (for interactive visualization)
-- Power Query & DAX (for data transformation)
-- Python (optional for preprocessing if used)
+## 📂 Dataset
+- File: `netflix_titles.csv`
+- Contains information such as:
+  - Title
+  - Type (Movie / TV Show)
+  - Country
+  - Release Year
+  - Rating
+  - Duration
+  - Genre
+
+Dataset Source: Netflix Titles Dataset (publicly available)
 
 ---
 
-##  Dashboard Preview
+## 🛠️ Tools Used
+- **Microsoft Excel** – data analysis and dashboard creation
+- **SQL** (if applicable) – querying and data preparation
+- **Power BI / Excel Visuals** – interactive dashboard and charts
+
+---
+
+## 📈 Dashboard Preview
 ![Netflix Dashboard](netflix_dashboard.png)
 
 ---
 
-## 🚀 Key Insights (Example)
-- The number of TV Shows has grown faster than movies in recent years.
-- The US and India are among top content contributors.
-- Certain rating categories dominate overall shows.
+## 🔑 Key Insights
+- TV Shows have shown significant growth compared to Movies in recent years
+- The United States and India are among the top content-producing countries
+- Certain rating categories dominate Netflix’s content library
+- Content additions have increased steadily over time
 
 ---
 
 ## 📥 How to Use
-1. Download the Excel/dashboard file from this repo.
-2. Open it in **Microsoft Excel Desktop** or **Power BI Desktop**.
-3. Enable slicers/filters to explore trends interactively.
+1. Download the Excel or dashboard file from this repository  
+2. Open it using **Microsoft Excel Desktop** (recommended for full interactivity)  
+3. Enable editing and use filters/slicers to explore insights  
 
 ---
 
-## ⚡ Conclusion
-This project demonstrates practical experience in data cleaning, analysis, and dashboard storytelling.
+## 🚀 Conclusion
+This project demonstrates practical skills in data cleaning, analysis, and visualization.  
+It highlights the ability to transform raw data into actionable insights using analytical thinking and dashboard storytelling.
 
 ---
 
-## 📎 About
-Data analysis project built by **Kirti** — part of personal data analytics portfolio.
-
-
+## 👩‍💻 Author
+**Kirti**  
+Aspiring Data Analyst  
+GitHub Portfolio Project
 
 
