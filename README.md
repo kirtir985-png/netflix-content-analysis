@@ -1,7 +1,5 @@
-# netflix-content-analysis
-Netflix content dashboard using Power BI and Power Query
-
 # Netflix Content Analysis Dashboard 📊
+Netflix content dashboard using Power BI and Power Query
 
 ## Objective
 To analyze Netflix’s movies and TV shows dataset to uncover insights related to content type, country-wise distribution, ratings, duration patterns, and content growth over time using Power BI.
