@@ -31,7 +31,7 @@ The dashboard highlights:
 - Rating category breakdown
   
 ### Dashboard Preview
-![Sales Dashboard Screenshot](coffee sales dashboard.png)
+![Coffee Shop Sales Dashboard](coffee%20sales%20dashboard.png)
 
 ## Key Insights
 - Movies dominate Netflix’s overall content library
