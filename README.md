@@ -29,7 +29,7 @@ The analysis helps understand how Netflix’s content varies across genres, coun
 The analysis was performed on a publicly available Netflix Movies and TV Shows dataset.
 The source data was provided in Excel format and cleaned using Power Query before building the Power BI dashboard.
 
---
+---
 
 ## 🔑 Key Insights
 - TV Shows have shown significant growth compared to Movies in recent years
