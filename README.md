@@ -1,44 +1,64 @@
-# Netflix Content Analysis Dashboard 📊
-Netflix content dashboard using Power BI and Power Query
+# Netflix Content Analysis Dashboard
 
-## Objective
-To analyze Netflix’s movies and TV shows dataset to uncover insights related to content type, country-wise distribution, ratings, duration patterns, and content growth over time using Power BI.
+##  Overview
+This project analyzes Netflix’s movies and TV shows dataset to uncover key insights into content distribution, trends, and patterns over time.
 
-## Dataset
-- Kaggle Netflix Titles dataset (CSV format)
-- Includes information on movies and TV shows such as country, release year, duration, rating, and genre.
+The dashboard provides interactive visuals to explore:
+- Movie vs TV Show distribution
+- Country-wise content production
+- Rating categories and trends
+- Yearly content addition
+- Duration and genre patterns
+
+---
+
+## 📊 Dataset
+The dataset used is the “Netflix Titles” dataset (CSV), containing:
+- Title
+- Type (Movie/TV Show)
+- Country
+- Release Year
+- Rating
+- Duration
+- Genre information
+
+Source: Kaggle (Netflix Titles dataset)
+
+---
 
 ## Tools Used
-- Power BI
-- Power Query (for data cleaning and transformation)
-- DAX (for calculated measures)
+- Microsoft Excel & SQL (for data preparation and dashboard)
+- Power BI (for interactive visualization)
+- Power Query & DAX (for data transformation)
+- Python (optional for preprocessing if used)
 
-## Data Preparation
-- Cleaned and transformed raw data using Power Query
-- Handled missing values and standardized columns
-- Created calculated measures using DAX
-- Applied filters and slicers for interactive analysis
+---
 
-## Dashboard Overview
-The dashboard highlights:
-- Total Movies, TV Shows, and Titles
-- Movies vs TV Shows percentage distribution
-- Top 5 countries by content count
-- Year-wise content growth trends
-- TV show season distribution
-- Rating category breakdown
-  
-### Dashboard Preview
-![Coffee Shop Sales Dashboard](Coffee_Shop_Sales_Dashboard.png)
+##  Dashboard Preview
+![Netflix Dashboard](netflix_dashboard.png)
 
-## Key Insights
-- Movies dominate Netflix’s overall content library
-- The United States and India are the largest content contributors
-- Rapid growth in Netflix content after 2015
-- Most TV shows have multiple seasons
-- Adult-rated content forms a significant share
+---
 
-## Conclusion
-This project demonstrates hands-on experience in data cleaning, analysis, and dashboard storytelling using Power BI.
+## 🚀 Key Insights (Example)
+- The number of TV Shows has grown faster than movies in recent years.
+- The US and India are among top content contributors.
+- Certain rating categories dominate overall shows.
+
+---
+
+## 📥 How to Use
+1. Download the Excel/dashboard file from this repo.
+2. Open it in **Microsoft Excel Desktop** or **Power BI Desktop**.
+3. Enable slicers/filters to explore trends interactively.
+
+---
+
+## ⚡ Conclusion
+This project demonstrates practical experience in data cleaning, analysis, and dashboard storytelling.
+
+---
+
+## 📎 About
+Data analysis project built by **Kirti** — part of personal data analytics portfolio.
 
 
