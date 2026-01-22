@@ -29,6 +29,9 @@ The dashboard highlights:
 - Year-wise content growth trends
 - TV show season distribution
 - Rating category breakdown
+  
+### Dashboard Preview
+![Sales Dashboard Screenshot](coffee sales dashboard.png)
 
 ## Key Insights
 - Movies dominate Netflix’s overall content library
