@@ -1,2 +1,3 @@
 # netflix-content-analysis
-Exploratory data analysis of Netflix movies and TV shows using Excel, SQL, and dashboards.
+Netflix content dashboard using Power BI and Power Query
+
