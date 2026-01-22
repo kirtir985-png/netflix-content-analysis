@@ -32,7 +32,6 @@ Dataset Source: Netflix Titles Dataset (publicly available)
 
 ## 🛠️ Tools Used
 - **Microsoft Excel** – data analysis and dashboard creation
-- **SQL** (if applicable) – querying and data preparation
 - **Power BI / Excel Visuals** – interactive dashboard and charts
 
 ---
